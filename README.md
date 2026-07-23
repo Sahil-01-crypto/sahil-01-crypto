@@ -125,7 +125,7 @@ const sahilKumarSingh = {
 
 <table><tr><td width="700">
 
-- 🔥 Solved **520+ Data Structures & Algorithms** problems across LeetCode, GeeksforGeeks, and HackerRank
+- 🔥 Solved **550+ Data Structures & Algorithms** problems across LeetCode, GeeksforGeeks, and HackerRank
 - 🧱 Built responsive **full-stack web applications** using modern web technologies
 - 📚 Strong grasp of **DSA, OOP, DBMS, Computer Networks, and Operating Systems**
 - 🌱 Continuously learning new technologies through hands-on projects and consistent coding practice
