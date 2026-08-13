@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=200&section=header&text=Sahil%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Sahil-01-crypto">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39ff14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Enthusiast;Building+with+React.js+%2B+Node.js+%2B+Express.js;570%2B+DSA+Problems+Solved;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39ff14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Enthusiast;Building+with+React.js+%2B+Node.js+%2B+Express.js;600%2B+DSA+Problems+Solved;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
