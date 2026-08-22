@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:d946ef&height=200&section=header&text=Sahil%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f472b6&height=200&section=header&text=Sahil%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Sahil-01-crypto">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=d946ef&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Enthusiast;Building+with+React.js+%2B+Node.js+%2B+Express.js;600%2B+DSA+Problems+Solved;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=f472b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Enthusiast;Building+with+React.js+%2B+Node.js+%2B+Express.js;600%2B+DSA+Problems+Solved;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sahil-01-crypto&label=Profile%20Views&color=d946ef&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Sahil-01-crypto?label=Followers&style=for-the-badge&color=d946ef" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Sahil-01-crypto&label=Profile%20Views&color=f472b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Sahil-01-crypto?label=Followers&style=for-the-badge&color=f472b6" alt="Followers" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilkumarsingh2007/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.pihul2007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-d946ef?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sahil-01-crypto.github.io/My-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sahil-01-crypto.github.io/My-Portfolio/)
 
 <br/>
 
@@ -102,10 +102,10 @@ const sahilKumarSingh = {
 
 ## 🧩 Coding Profiles
 
-<a href="https://leetcode.com/u/sahil_in/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d946ef" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sahilpihccej/"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=d946ef" /></a>
-<a href="https://www.hackerrank.com/profile/sahil_pihul2007"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=d946ef" /></a>
-<a href="https://codolio.com/profile/sahilyt"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=d946ef" /></a>
+<a href="https://leetcode.com/u/sahil_in/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=f472b6" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sahilpihccej/"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=f472b6" /></a>
+<a href="https://www.hackerrank.com/profile/sahil_pihul2007"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=f472b6" /></a>
+<a href="https://codolio.com/profile/sahilyt"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=f472b6" /></a>
 
 <br/>
 
@@ -136,12 +136,12 @@ const sahilKumarSingh = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=Sahil-01-crypto&show_icons=true&theme=radical&border_color=d946ef&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sahil-01-crypto&layout=compact&theme=radical&border_color=d946ef&title_color=d946ef&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Sahil-01-crypto&show_icons=true&theme=radical&border_color=f472b6&title_color=f472b6&icon_color=f472b6&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sahil-01-crypto&layout=compact&theme=radical&border_color=f472b6&title_color=f472b6&text_color=c9d1d9&bg_color=0d1117" width="49%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Sahil-01-crypto&theme=radical&background=0d1117&border=d946ef&ring=d946ef&fire=d946ef&currStreakLabel=d946ef" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=Sahil-01-crypto&theme=radical&background=0d1117&border=f472b6&ring=f472b6&fire=f472b6&currStreakLabel=f472b6" width="90%"/>
 
 <br/>
 
@@ -149,7 +149,7 @@ const sahilKumarSingh = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-01-crypto&theme=radical&bg_color=0d1117&color=d946ef&line=d946ef&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-01-crypto&theme=radical&bg_color=0d1117&color=f472b6&line=f472b6&point=ffffff" width="90%"/>
 
 <br/>
 
@@ -157,10 +157,10 @@ const sahilKumarSingh = {
 
 <a href="https://www.linkedin.com/in/sahilkumarsingh2007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sahil.pihul2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://sahil-01-crypto.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-d946ef?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://sahil-01-crypto.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
