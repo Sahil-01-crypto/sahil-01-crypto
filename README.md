@@ -43,9 +43,9 @@ const sahilKumarSingh = {
 
   stack: {
     languages:      ["Java", "JavaScript", "Python", "C++"],
-    frontend:       ["HTML5", "CSS3", "JavaScript", "React.js", "Tailwind CSS", "Redux"],
+    frontend:       ["HTML5", "CSS3", "JavaScript", "React.js", "Tailwind CSS", "Redux", "Figma"],
     backend:        ["Node.js", "Express.js"],
-    database:       ["MySQL"],
+    database:       ["MySQL", "MongoDB"],
     versionControl: ["Git", "GitHub"],
     coreCS:         ["Data Structures & Algorithms", "OOP", "DBMS", "Computer Networks", "Operating Systems"],
     tools:          ["VS Code", "Postman"],
@@ -76,7 +76,7 @@ const sahilKumarSingh = {
 </tr>
 <tr>
 <td align="right" width="280"><b>Frontend</b></td>
-<td align="center" width="620"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" /></td>
+<td align="center" width="620"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,figma" /></td>
 </tr>
 <tr>
 <td align="right" width="280"><b>Backend / Infra</b></td>
@@ -84,7 +84,7 @@ const sahilKumarSingh = {
 </tr>
 <tr>
 <td align="right" width="280"><b>Database</b></td>
-<td align="center" width="620"><img src="https://skillicons.dev/icons?i=mysql" /></td>
+<td align="center" width="620"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
 </tr>
 <tr>
 <td align="right" width="280"><b>Version Control</b></td>
